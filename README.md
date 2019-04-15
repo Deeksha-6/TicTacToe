@@ -17,6 +17,6 @@ npm i --save-dev enzyme enzyme-adapter-react-16
 To start the application -
 npm start - Runs the app in the development mode
 
-Which will open a default browser tab and display the board for the Tic Tac Toe game and
+Which will open a default browser tab and display the Tic Tac Toe game board for players.
 
 npm test - Launches the test runner in the interactive watch mode.
